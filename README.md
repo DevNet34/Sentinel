@@ -122,9 +122,13 @@ Use `--exclude GLOB` for one-off exclusions. Files larger than `--max-size`
   identifier-like tokens, alphabets, hashes, and digests; use `--no-entropy` if
   it is still too noisy.
 - Ignore files are loaded from the scanned roots (plus the current directory),
-  not from every nested directory.
+  not from every nested directory.  
 - If a secret has already been pushed, rotate it. Removing it from the working
   tree is not enough.
+----------------------------------------------------------------------------------------------------------------------
+#For contributions 
+BTC: bc1qvx72nmrxg7u6xdp6u62wnpns72dcrmtfwz8hrg 
+ETH: 0x37DDd7c1b7fB3a7488501b250b41beacFc776d47
+SOL: 3iVxADKWroSpVc9JA1jSpGjFZZ2Y6XtqHJZYttDvNf36
 
-
-MIT
+MI T
